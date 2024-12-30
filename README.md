@@ -1,0 +1,1 @@
+## Deploy application to a local cluster (kind) using pods and services - deploy web application on K8s cluster
